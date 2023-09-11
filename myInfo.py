@@ -9,3 +9,5 @@ Aidan Mazzola
 8 Oxdford Road, Manalapan, New Jersey, 07726
 >>> print("732-567-9520")
 732-567-9520
+>>> print("Mathematics major")
+Mathematics major
